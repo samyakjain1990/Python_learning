@@ -1,9 +1,8 @@
 # Python_learning
 
+This is my python learning repo where i have added programs for below:
 
-# This is my python learning repo where i have added programs for below:
-
-# a) numbers
+a) numbers
 b) operators
 c) comments
 d) variable
