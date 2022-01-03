@@ -7,7 +7,7 @@ b) operators
 c) comments
 d) variable
 e) strings
-f) Boolean and Conditional logic
-g) For Loop
+f) boolean and Conditional logic
+g) for Loop
 h) while loop
 i) Lists
