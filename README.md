@@ -1,13 +1,14 @@
 # Python_learning
 
-This is my python learning repo where i have added programs for below:
+This is my python learning where i have added programs for below topics :
 
-a) numbers
-b) operators
-c) comments
-d) variable
-e) strings
-f) boolean and Conditional logic
-g) for Loop
-h) while loop
-i) Lists
+- numbers
+- operators
+- comments
+- variable
+- strings
+- boolean and Conditional logic
+- for Loop
+- while loop
+- Lists
+
