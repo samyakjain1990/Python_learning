@@ -19,5 +19,5 @@ for s in sounds:
 #print(result)
 result = resulta
 result = result.upper()
-#print(result.upper())
+print(result.upper())
 
