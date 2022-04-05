@@ -5,7 +5,7 @@ class Truck(Vehicle):
     def __init__(self):
         Vehicle.__init__(self,"Test", 80, 23)
 
-    def test():
+    def test(self):
         a = 676
         return a
 
