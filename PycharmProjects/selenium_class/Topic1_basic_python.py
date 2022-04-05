@@ -18,12 +18,15 @@ print("The value of f :"+f)
 print("The Value of g :"+g)
 
 # This is the incorrect way of printing number when you are concatinating to one sentence
+# number cannot be added to an string 
 # print("The value of a:"+a)
 
 # This is the correct way of printing number when you are prining numbers 
 # print the value of a which is int and concatinating is giving an error
 print("{} {}".format("The value of d :",d))
 print("{}{}".format("The value of e :",e))
+
+print("{}{}".format("The value of c:",c))
 
 print(type(a))
 

@@ -1,3 +1,12 @@
+'''
+Topic to understand from here:
+a) how to create a class
+b) creating object for a class
+c) calling method using object
+d) what is default contructor
+e) printing from a method 
+'''
+
 class Calculator:
     num = 1                          # Class variables
 
@@ -26,8 +35,3 @@ class Calce:
 newobj = Calce()
 
 Calce.textprint()
-
-
-
-
-        
