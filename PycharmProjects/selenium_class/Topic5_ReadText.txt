@@ -1,0 +1,8 @@
+apple
+blue
+cat
+dog
+eat
+food
+goat
+hair
