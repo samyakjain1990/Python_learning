@@ -1,0 +1,130 @@
+1650022767721	geckodriver	INFO	Listening on 127.0.0.1:59488
+1650022768256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59489" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileUYBlNv"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650022779604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileUYBlNv/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59489/devtools/browser/708ec314-24f4-49be-b1a3-f20b72ff1ade
+1650022781168	Marionette	INFO	Listening on port 59494
+1650022781264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650022781918	Marionette	INFO	Stopped listening on port 59494
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650022802214	geckodriver	INFO	Listening on 127.0.0.1:59652
+1650022802752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59653" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileJftxNI"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650022803130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileJftxNI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59653/devtools/browser/77417cb1-2d46-4b0a-b8f5-c0e42a82d46e
+1650022804444	Marionette	INFO	Listening on port 59659
+1650022804555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650022805152	Marionette	INFO	Stopped listening on port 59659
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650022870504	geckodriver	INFO	Listening on 127.0.0.1:59714
+1650022871041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59715" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileDXBFM6"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650022871409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileDXBFM6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59715/devtools/browser/6d7d0ccf-37e1-4098-86ff-5f9cbdc4c517
+1650022872632	Marionette	INFO	Listening on port 59720
+1650022872713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650022873318	Marionette	INFO	Stopped listening on port 59720
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+1650022886233	geckodriver	INFO	Listening on 127.0.0.1:59770
+1650022886770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59771" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileLdpwVO"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650022887142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileLdpwVO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59771/devtools/browser/401c6b51-781d-4224-a675-9686276eda9c
+1650022888408	Marionette	INFO	Listening on port 59776
+1650022888444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650022889044	Marionette	INFO	Stopped listening on port 59776
+1650023257080	geckodriver	INFO	Listening on 127.0.0.1:60007
+1650023257607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60008" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofiletKVq6B"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650023258084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofiletKVq6B/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60008/devtools/browser/793f28c4-d2d6-49d8-8603-4ce3d0d80808
+1650023259498	Marionette	INFO	Listening on port 60016
+1650023259594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650023261078	Marionette	INFO	Stopped listening on port 60016
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+1650023271531	geckodriver	INFO	Listening on 127.0.0.1:60080
+1650023272062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60081" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofilemFK9Vs"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650023272421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofilemFK9Vs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60081/devtools/browser/e5254d4b-6abb-4012-a802-fa1c88d0497d
+1650023273717	Marionette	INFO	Listening on port 60086
+1650023273746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650023274391	Marionette	INFO	Stopped listening on port 60086
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 761: Error: Connection closed before committing the transaction.
+1650034904163	geckodriver	INFO	Listening on 127.0.0.1:63946
+1650034904588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63947" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileTTNMSe"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650034904883	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofileTTNMSe/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63947/devtools/browser/43f75f2c-5dfc-41e4-9583-c915bd2b10a9
+1650034905653	Marionette	INFO	Listening on port 63959
+Read port: 63959
+1650034905756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650034917412	Marionette	INFO	Stopped listening on port 63959
+1650034964344	geckodriver	INFO	Listening on 127.0.0.1:63996
+1650034964779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63997" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofilefOv7HJ"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "URL_TO_ALTERNATE_PROVIDER" - scheme (http or https) must be specified.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for DNSOverHTTPS.
+1650034965039	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/cq7ys_sj0s9gws7_158xp2r80000gn/T/rust_mozprofilefOv7HJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63997/devtools/browser/043af810-ffdd-4d42-bbc1-72c9c2531b6e
+1650034965770	Marionette	INFO	Listening on port 64011
+Read port: 64011
+1650034965835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650034976711	Marionette	INFO	Stopped listening on port 64011
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

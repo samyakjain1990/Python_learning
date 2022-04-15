@@ -1,3 +1,8 @@
+"""
+There are 3 different ways to use browser driver in selenium
+https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+"""
+
 from selenium import webdriver
 import time
 
