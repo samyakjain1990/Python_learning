@@ -1,9 +1,11 @@
 """
 There are 3 different ways to use browser driver in selenium
 https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+
+For more on syntax refer the syntaxlocator.dcox
 """
 
-# This can be used where system has complete internet connection and python can download the driver compatibile with your browser
+# This can be used where system has internet connection and python can download the driver compatibile with your browser
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
