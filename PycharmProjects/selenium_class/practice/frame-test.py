@@ -16,6 +16,12 @@ Calldriver = webdriver.Chrome(service=callservice)
 Calldriver.get("https://rahulshettyacademy.com/AutomationPractice/")
 
 # switch to frames
+# better to add explicit sleep here for the frame to be loaded
+
 Calldriver.switch_to.frame("courses-iframe")
 # clicking on button
 Calldriver.find_element(By.XPATH,value="//a[text()='Courses']").click()
+
+Calldriver.switch_to.default_content()
+
+print(Calldriver.find_element(by=By.XPATH,value="//button[@id='mousehover']").text)
